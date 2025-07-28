@@ -5,3 +5,5 @@
 
 - notebook :
   - https://www.kaggle.com/code/dannyyeh/daniel-convid19/edit
+
+![img](./imgrank.PNG)
