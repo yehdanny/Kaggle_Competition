@@ -6,6 +6,6 @@
 - notebook :
   - [https://www.kaggle.com/code/dannyyeh/daniel-convid19/edit](https://www.kaggle.com/code/dannyyeh/daniel-convid19-tensorflow-unet-trainfromscratch/edit)
 
-/HR 
+<HR> 
 
 ![img](./imgrank.PNG)
